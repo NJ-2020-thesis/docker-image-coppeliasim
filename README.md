@@ -1,6 +1,10 @@
 CoppeliaSim Docker image
 =======================================
 
+### Steps
+* Copy 'CoppeliaSim_Edu_V4_1_0_Ubuntu18_04.tar.xz' to /downloads/ folder.
+* 
+
 ### Building:
 
 Use `docker build` as usual, or use the provided script:
